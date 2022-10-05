@@ -1,1 +1,1 @@
-Delete the file betty
+Delete directory my_first_directory that is in the /tmp directory
