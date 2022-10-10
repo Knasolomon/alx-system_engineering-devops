@@ -1,1 +1,1 @@
-display all line of the file /etc/ssh/sshd_config starting with a letter
+replace all characters A and c from input Z and e respectively
