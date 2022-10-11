@@ -1,1 +1,1 @@
-script that creates an alias
+readme file in root of directory
