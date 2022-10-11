@@ -1,1 +1,1 @@
-readme at root of repo
+script that creates an alias
