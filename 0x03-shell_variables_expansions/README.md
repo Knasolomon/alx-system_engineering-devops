@@ -1,1 +1,1 @@
-script that prints hello user, where user is the current user
+add /action to the path./action should be the last directory the shell looks into when looking for a program
